@@ -5,66 +5,80 @@ import { Icon } from "leaflet";
 import Legend from "./Legend";
 import MarkerClusterGroup from "react-leaflet-cluster";
 
+//Import all of the images
+import fire1 from "./fire.png"
+import ice1 from "./iceberg.png"
+import burn1 from "./sun.png"
+import dust1 from "./foggy.png"
+import crack1 from "./electrocardiogram.png"
+import seaWaves1 from "./flooded-house.png"
+import landSlide1 from "./landslide.png"
+import mandMade1 from "./biohazard.png"
+import storm1 from "./thunderstorm.png"
+import snow1 from "./snowflake.png"
+import temp1 from "./temperature.png"
+import volcanoes1 from "./volcano.png"
+
 
 //Create all of the icons used for their respected natural disaster
 
 const fire = new Icon({
-  iconUrl: "/fire.png",
+  iconUrl: fire1,
   iconSize: [25, 25],
 });
 
 const ice = new Icon({
-  iconUrl: "/iceberg.png",
+  iconUrl: ice1,
   iconSize: [25, 25],
 });
 
 const burn = new Icon({
-  iconUrl: "/sun.png",
+  iconUrl: burn1,
   iconSize: [25, 25],
 });
 
 const dust = new Icon({
-  iconUrl: "/foggy.png",
+  iconUrl: dust1,
   iconSize: [25, 25],
 });
 
 const crack = new Icon({
-  iconUrl: "/electrocardiogram.png",
+  iconUrl: crack1,
   iconSize: [25, 25],
 });
 
 const seaWaves = new Icon({
-  iconUrl: "/flooded-house.png",
+  iconUrl: seaWaves1,
   iconSize: [25, 25],
 });
 
 const landSlide = new Icon({
-  iconUrl: "/landslide.png",
+  iconUrl: landSlide1,
   iconSize: [25, 25],
 });
 
 const manMade = new Icon({
-  iconUrl: "/biohazard.png",
+  iconUrl: mandMade1,
   iconSize: [25, 25],
 });
 
 const storm = new Icon({
-  iconUrl: "/thunderstorm.png",
+  iconUrl: storm1,
   iconSize: [25, 25],
 });
 
 const snow = new Icon({
-  iconUrl: "/snowflake.png",
+  iconUrl: snow1,
   iconSize: [25, 25],
 });
 
 const temp = new Icon({
-  iconUrl: "/temperature.png",
+  iconUrl: temp1,
   iconSize: [25, 25],
 });
 
 const volcanoes = new Icon({
-  iconUrl: "/volcano.png",
+  iconUrl: volcanoes1,
   iconSize: [25, 25],
 });
 
