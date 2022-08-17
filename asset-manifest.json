@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Disaster-Near-Me/static/css/main.de8172f1.css",
+    "main.js": "/Disaster-Near-Me/static/js/main.5e7e57e1.js",
+    "static/media/disaster.png": "/Disaster-Near-Me/static/media/disaster.a533126311ce0a9cbbf5.png",
+    "index.html": "/Disaster-Near-Me/index.html",
+    "main.de8172f1.css.map": "/Disaster-Near-Me/static/css/main.de8172f1.css.map",
+    "main.5e7e57e1.js.map": "/Disaster-Near-Me/static/js/main.5e7e57e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de8172f1.css",
+    "static/js/main.5e7e57e1.js"
+  ]
+}
