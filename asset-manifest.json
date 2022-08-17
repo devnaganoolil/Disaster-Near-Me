@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Disaster-Near-Me/static/css/main.e3f89dee.css",
+    "main.css": "/Disaster-Near-Me/static/css/main.6fcffa5e.css",
     "main.js": "/Disaster-Near-Me/static/js/main.1d2925af.js",
     "static/media/disaster.png": "/Disaster-Near-Me/static/media/disaster.a533126311ce0a9cbbf5.png",
     "static/media/biohazard.png": "/Disaster-Near-Me/static/media/biohazard.6f6b9433b225be2cc844.png",
@@ -13,11 +13,11 @@
     "static/media/volcano.png": "/Disaster-Near-Me/static/media/volcano.83f1ced7d332c7f28e72.png",
     "static/media/thunderstorm.png": "/Disaster-Near-Me/static/media/thunderstorm.6aa53c08df3cb1eb643e.png",
     "index.html": "/Disaster-Near-Me/index.html",
-    "main.e3f89dee.css.map": "/Disaster-Near-Me/static/css/main.e3f89dee.css.map",
+    "main.6fcffa5e.css.map": "/Disaster-Near-Me/static/css/main.6fcffa5e.css.map",
     "main.1d2925af.js.map": "/Disaster-Near-Me/static/js/main.1d2925af.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3f89dee.css",
+    "static/css/main.6fcffa5e.css",
     "static/js/main.1d2925af.js"
   ]
 }
