@@ -1,14 +1,23 @@
 {
   "files": {
     "main.css": "/Disaster-Near-Me/static/css/main.9ccb364a.css",
-    "main.js": "/Disaster-Near-Me/static/js/main.4648e8d0.js",
+    "main.js": "/Disaster-Near-Me/static/js/main.1d2925af.js",
     "static/media/disaster.png": "/Disaster-Near-Me/static/media/disaster.a533126311ce0a9cbbf5.png",
+    "static/media/biohazard.png": "/Disaster-Near-Me/static/media/biohazard.6f6b9433b225be2cc844.png",
+    "static/media/snowflake.png": "/Disaster-Near-Me/static/media/snowflake.83c9aa261bdcebc070e0.png",
+    "static/media/iceberg.png": "/Disaster-Near-Me/static/media/iceberg.42dccf261eecc9ce10c5.png",
+    "static/media/landslide.png": "/Disaster-Near-Me/static/media/landslide.9ff75423af1bd125a5cb.png",
+    "static/media/flooded-house.png": "/Disaster-Near-Me/static/media/flooded-house.9cf7cc0766f0f83db6b2.png",
+    "static/media/fire.png": "/Disaster-Near-Me/static/media/fire.5fe265246a0a96116d50.png",
+    "static/media/sun.png": "/Disaster-Near-Me/static/media/sun.75b897f118d2c82777ea.png",
+    "static/media/volcano.png": "/Disaster-Near-Me/static/media/volcano.83f1ced7d332c7f28e72.png",
+    "static/media/thunderstorm.png": "/Disaster-Near-Me/static/media/thunderstorm.6aa53c08df3cb1eb643e.png",
     "index.html": "/Disaster-Near-Me/index.html",
     "main.9ccb364a.css.map": "/Disaster-Near-Me/static/css/main.9ccb364a.css.map",
-    "main.4648e8d0.js.map": "/Disaster-Near-Me/static/js/main.4648e8d0.js.map"
+    "main.1d2925af.js.map": "/Disaster-Near-Me/static/js/main.1d2925af.js.map"
   },
   "entrypoints": [
     "static/css/main.9ccb364a.css",
-    "static/js/main.4648e8d0.js"
+    "static/js/main.1d2925af.js"
   ]
 }
