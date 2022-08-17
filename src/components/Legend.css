@@ -1,0 +1,12 @@
+h2{
+    text-align: center;
+}
+
+li{
+    display: inline;
+    padding-left: 25px;
+}
+
+div{
+    background: transparent;
+}
